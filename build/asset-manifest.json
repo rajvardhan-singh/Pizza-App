@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9b7be37.css",
+    "main.js": "/static/js/main.8b3bd3e9.js",
+    "static/media/farmhouse.png": "/static/media/farmhouse.aca96f1b05dc21b6de19.png",
+    "index.html": "/index.html",
+    "main.e9b7be37.css.map": "/static/css/main.e9b7be37.css.map",
+    "main.8b3bd3e9.js.map": "/static/js/main.8b3bd3e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9b7be37.css",
+    "static/js/main.8b3bd3e9.js"
+  ]
+}
